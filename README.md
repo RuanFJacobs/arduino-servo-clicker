@@ -12,6 +12,7 @@ It was built as a simple automation experiment using an Arduino microcontroller.
 * Random delay between movements
 * Servo movement triggered automatically
 * Configurable angles and timing
+* V2 has a second click with a random delay following the first click
 
 ## Hardware
 
